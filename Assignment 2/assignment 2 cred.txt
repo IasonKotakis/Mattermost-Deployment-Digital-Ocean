@@ -1,5 +1,0 @@
-Limoncelli1!
-jason 
-Mattermost server
-
-ssh itec2210@138.197.173.73
