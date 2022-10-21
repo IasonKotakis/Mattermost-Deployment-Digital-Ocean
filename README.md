@@ -20,7 +20,7 @@ You can find all the necessary documentation for each tool, listed below:
 - [OTRS]
 - [Mattermost](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/tree/documentation/mattermost)
 - [NGINX](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/tree/documentation/NGINX)
-- [PostgreSQL]
+- [PostgreSQL](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/PostgreSQL/PostgreSQL%20Documentation)
 - [Linux]
 
 
