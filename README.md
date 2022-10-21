@@ -17,7 +17,7 @@ Lastly, since October is Cyber Security awareness month, we will make sure to en
 You can find all the necessary documentation for each tool, listed below: 
 
 - [Digital Ocean](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Digital%20Ocean/Digital%20Ocean%20documentation)
-- [OTRS]
+- [OTRS](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/OTRS/OTRS%20Documentation)
 - [Mattermost](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/tree/documentation/mattermost)
 - [NGINX](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/tree/documentation/NGINX)
 - [PostgreSQL](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/PostgreSQL/PostgreSQL%20Documentation)
