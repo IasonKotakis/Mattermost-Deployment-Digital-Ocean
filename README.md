@@ -18,8 +18,8 @@ You can find all the necessary documentation for each tool, listed below:
 
 - [Digital Ocean](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Digital%20Ocean/Digital%20Ocean%20documentation)
 - [OTRS](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/OTRS/OTRS%20Documentation)
-- [Mattermost](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/tree/documentation/mattermost)
-- [NGINX](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/tree/documentation/NGINX)
+- [Mattermost](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/mattermost/mattermost%20documentation)
+- [NGINX]()
 - [PostgreSQL](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/PostgreSQL/PostgreSQL%20Documentation)
 - [Linux](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Linux/Ubuntu%20Documentation)
 
