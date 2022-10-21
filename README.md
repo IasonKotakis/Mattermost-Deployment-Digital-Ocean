@@ -21,7 +21,7 @@ You can find all the necessary documentation for each tool, listed below:
 - [Mattermost](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/tree/documentation/mattermost)
 - [NGINX](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/tree/documentation/NGINX)
 - [PostgreSQL](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/PostgreSQL/PostgreSQL%20Documentation)
-- [Linux]
+- [Linux](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Linux/Ubuntu%20Documentation)
 
 
 
