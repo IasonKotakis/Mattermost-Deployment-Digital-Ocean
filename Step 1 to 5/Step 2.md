@@ -15,7 +15,7 @@
 
 <p> Although you can run each command as your regular user by using "sudo" it will be simpler to just become root and follow the instructions for this project. The relevant file permissions will then be configured for you by OTRS at the conclusion of the installation process.</p>
 
-<h3> You MUST remember to use the Debian/Ubuntu speciﬁc version of each command, not the RedHat or SuSE versions. If you use the latter then you will get stuck.</h3>
+<h3> You MUST remember to use the Debian/Ubuntu speciﬁc version of each command, not the RedHat or SuSE versions. You will get stuck later in the steps.</h3>
 
 <p>To begin, become root (per above using sudo) and install some prerequisite packages before starting at Step 1 (copy and paste the entire command starting at ‘apt’):</p>
 
