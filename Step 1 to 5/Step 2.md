@@ -182,7 +182,3 @@ Be sure to set a password and note it down.</p>
 <p><strong>If you have followed the steps above then congratulations 👏, you have completed Step 2 of setting Mattermost on Digital Ocean</strong></p>
 <p>Ready for Step 3?</p>
 
-
-```python
-
-```
