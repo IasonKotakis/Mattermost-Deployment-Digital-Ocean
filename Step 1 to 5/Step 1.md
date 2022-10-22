@@ -45,4 +45,4 @@ select your VM from the list.</li>
 
 <hr>
  Wonderful!!! You have completed Step 1, how about we delve deeper and set OTRS on 
- [Step 2](Step%202.md)?
+ [Step 2](/Step%201%20to%205/Step%201.md)?
