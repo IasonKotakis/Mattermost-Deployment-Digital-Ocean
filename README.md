@@ -30,8 +30,8 @@ You can find all the necessary documentation for each tool, listed below:
 
  - [✔️] ☁ 1 > [Set up Digital Ocean](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Step%201%20to%205/Step%201.md)
  - [✔️] 📧 2 > [Set up OTRS](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Step%201%20to%205/Step%202.md)
- -  [✔️] 🤝 3 > [Set up NGINX]
- - [✔️] 💻 4 > [Set up PostgreSQL]
+ -  [✔️] 🤝 3 > [Set up Mattermost]
+ - [✔️] 💻 4 > [Set up PostgreSQL + NGINX]
  - [✔️] ⚙ 5 > [Set up Let's Encrypt]
 
 
