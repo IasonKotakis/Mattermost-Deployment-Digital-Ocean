@@ -40,5 +40,4 @@ select your VM from the list.</li>
 <img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/clapping-hands-emoji-clipart-md.png" alt="clapping hands" width="200px" height="200px">
 
 <hr>
-
-<p> Wonderful!!! You have completed Step 1, how about we delve deeper and set OTRS on [Step 2](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Digital%20Ocean/Digital%20Ocean%20documentation)?</p>
+ Wonderful!!! You have completed Step 1, how about we delve deeper and set OTRS on [Step 2](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Digital%20Ocean/Digital%20Ocean%20documentation)
