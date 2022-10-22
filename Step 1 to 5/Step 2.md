@@ -134,7 +134,7 @@ ignore:<code>a2enmod version, ERROR: Module version does not exist!</code></p>
 <p>2. Continue with the web installer instructions:<br>
     <code>https://doc.otrs.com/doc/manual/admin/6.0/en/html/web-installer.html</code></p>
 
-<img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/OTRS%20web%20installer.png">
+<img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/OTRS%20Web%20Installer.png">
 
 <p>3. When you reach the Database Settings step in the web installer, click
 Check database settings. You will receive a message like this:</p>
