@@ -28,7 +28,7 @@ You can find all the necessary documentation for each tool, listed below:
 
 ## Progress 
 
- - [✔️] ☁ 1 > [Set up Digital Ocean]
+ - [✔️] ☁ 1 > [Set up Digital Ocean](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Step%201%20to%205/Step%201.md)
  - [✔️] 📧 2 > [Set up OTRS]
  -  [✔️] 🤝 3 > [Set up NGINX]
  - [✔️] 💻 4 > [Set up PostgreSQL]
