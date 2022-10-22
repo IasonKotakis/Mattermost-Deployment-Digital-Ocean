@@ -1,6 +1,6 @@
 # Step 1 - Setting up Digital Ocean
 
-<h2> Description </h2>
+<h2> Introduction </h2>
 
 <p>Working with ticketing systems will take up a sizable deal of your time as a system administrator. You can prioritise tasks and gain a better understanding of how your firm uses IT as a whole by using a ticketing system effectively.
 You will need to provision a virtual machine for this project, then set up the OTRS ticketing system on it.</p>
