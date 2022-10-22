@@ -1,12 +1,16 @@
 # Step 1 - Setting up Digital Ocean
 
-<hr>
-
 <h2> Description </h2>
 
 <p>Working with ticketing systems will take up a sizable deal of your time as a system administrator. You can prioritise tasks and gain a better understanding of how your firm uses IT as a whole by using a ticketing system effectively.
 You will need to provision a virtual machine for this project, then set up the OTRS ticketing system on it.</p>
 
+<hr>
+
+
+<h2> What is Digital Ocean, you might ask </h2> 
+<p>With offices all over the world and a New York City headquarters, DigitalOcean, Inc. is an American cloud infrastructure provider. Developers, entrepreneurs, and SMBs can access cloud infrastructure as a service platforms from DigitalOcean.
+A month-long celebration of open source software called Hacktoberfest is also conducted by DigitalOcean in October. It collaborates with a variety of software providers every year, including GitHub, Twilio, Dev.to, Intel, AppWrite, and DeepSource.</p>
 
 
 <h2> VM Setup </h2>
@@ -41,4 +45,4 @@ select your VM from the list.</li>
 
 <hr>
  Wonderful!!! You have completed Step 1, how about we delve deeper and set OTRS on 
- [Step 2]
+ [Step 2]?
