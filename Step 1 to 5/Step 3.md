@@ -95,7 +95,7 @@ Lastly, we have to modify the <code>pg_hba.conf</code> to allow the Mattermost s
 
 Lets create the System Admin user so we can set up Mattermost for general use. 
 
-<p>1. Open a browser and navigate to your Mattermost instance. For example, if the IP address of the Mattermost server is 10.10.10.2 then go to http://10.10.10.2:8065.<br>
+<p>1. Open a browser and navigate to your Mattermost instance. For example, if the IP address of the Mattermost server is 10.10.10.2 then go to <code>http://10.10.10.2:8065</code>.<br>
 2. Create the first team and user. The first user in the system has the <code>system_admin</code> role, which gives you access to the System Console.<br>
 3. To open the System Console, select the Product menu in the top-left corner of the navigation panel, then select <strong>System Console</strong>.
 </p>
