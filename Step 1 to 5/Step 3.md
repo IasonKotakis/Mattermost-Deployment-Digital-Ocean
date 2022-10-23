@@ -18,7 +18,7 @@ Mattermost Inc. manages and advances the project. The business makes money by ch
 
 <h2> Important Notes</h2>
 
-<h3 style="background-color:red;"><strong>DO NOT PROCEED, UNTIL YOU HAVE READ ALL THE DOCUMENTATION</strong></h3>
+<h3 style="background-color:red;"><strong>!!!DO NOT PROCEED, UNTIL YOU HAVE READ ALL THE DOCUMENTATION</strong>!!!</h3>
 <br>
 <p>1. You will need to stop Apache and MySQL on your VM. Use `systemctl stop…` for each service. Recall the commands that you used with OTRS to start/restart.</p>
 <p>2. Ensure that you follow the PostgreSQL specific instructions if you come to asection with different options for the database.</p>
@@ -26,9 +26,8 @@ Mattermost Inc. manages and advances the project. The business makes money by ch
 Ubuntu 18.04 is /etc/postgresql/10/main/pg_hba.conf</li></ul>
 <p>3. When you reach the Configuring Mattermost Server section, set your Site URL to the DNS name that points to your VM. For example, if your DNS name is jason, then your Site URL will be jason.hostname.ca.<br>
 Under the ‘Listen Address’ field, set the address to 127.0.0.1:8065. You will need to restart Mattermost after doing that using the systemctl command from the documentation.</p>
-<br>
 
-<h3 style="background-color:red;"><strong>Once you restart Mattermost, it will be unavailable until you finish the Nginx steps.</strong></h3>
+<h3 style="background-color:red;"><strong>!!!Once you restart Mattermost, it will be unavailable until you finish the Nginx steps.</strong>!!!</h3>
 
 <p>4. You do not need to complete the SMTP portion of the documentation.</p>
 <p>5. When you are instructed to use an IP address like 10.10.10.2 or the like in nginx or PostgreSQL, use the localhost IP, 127.0.0.1. This will ensure Mattermost, PostgreSQL and nginx are all communicating locally instead of via the public
@@ -141,10 +140,13 @@ Lets create the System Admin user so we can set up Mattermost for general use.
 <p>12. Run the Let’s Encrypt installer by running <code>sudo certbot</code>. This will run certbot and will automatically edit your NGINX config file for the site(s) selected.</p>
 
 <p><b>If everything is set up correctly with the steps above and the documentation then you should be able to get a message from Let's Encrypt that a certficate has been issued for your website successfully.</b></p>
+  <br>
 
 <img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/Server_Nginx_with_Mattermost_Comms.jpg">
+  <br>
 
 <p><b>You would be able to have access to your website and have the ability to create a team for your mattermost server.</b></p>
+  <br>
 
 <img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/Mattermost%20Completion.jpg">
 
@@ -153,8 +155,3 @@ Lets create the System Admin user so we can set up Mattermost for general use.
 <img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/clapping-hands-emoji-clipart-md.png">
 
 <hr>
-
-
-```python
-
-```
