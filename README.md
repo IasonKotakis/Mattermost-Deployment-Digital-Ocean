@@ -11,14 +11,7 @@ Lastly, since October is Cyber Security awareness month, we will make sure to en
 
 <hr>
 
-
-## Documentation
-
-You can find all the necessary documentation for each tool, listed below: 
-
-- [Documentation](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Documentation.md)
-
-
+<br>
 
 ## Progress 
 
@@ -26,9 +19,15 @@ You can find all the necessary documentation for each tool, listed below:
  - [✔️] 📧 2 > [Set up OTRS](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Step%201%20to%205/Step%202.md)
  -  [✔️] 🤝 3 > [Set up PostegreSQL + NGINX + Mattermost + TLS](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Step%201%20to%205/Step%203.md)
 
+<br>
+<br>
 
+## Documentation
 
+You can find all the necessary documentation for each tool, listed below: 
 
+- 📃 [Documentation](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Documentation.md)
+<br>
 
 ## License
 
