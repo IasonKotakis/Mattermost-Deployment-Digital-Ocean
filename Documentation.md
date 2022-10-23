@@ -19,8 +19,3 @@
 <h3>PostgreSQL + NGINX + Mattermost + Let's Encrypt</h3>
 <p><code>https://docs.mattermost.com/install/install-debian.html#configure-mattermost-server</code></p>
 <p><code>https://docs.mattermost.com/install/config-ssl-http2-nginx.html</code></p>
-
-
-```python
-
-```
