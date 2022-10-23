@@ -16,13 +16,7 @@ Lastly, since October is Cyber Security awareness month, we will make sure to en
 
 You can find all the necessary documentation for each tool, listed below: 
 
-- [Digital Ocean](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Digital%20Ocean/Digital%20Ocean%20documentation)
-- [OTRS](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/OTRS/OTRS%20Documentation)
-- [Mattermost](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/mattermost/mattermost%20documentation)
-- [NGINX](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/NGINX/NGINX%20Documentation)
-- [PostgreSQL](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/PostgreSQL/PostgreSQL%20Documentation)
-- [Linux](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Linux/Ubuntu%20Documentation)
-
+- [Documentation]()
 
 
 
@@ -30,11 +24,7 @@ You can find all the necessary documentation for each tool, listed below:
 
  - [✔️] ☁ 1 > [Set up Digital Ocean](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Step%201%20to%205/Step%201.md)
  - [✔️] 📧 2 > [Set up OTRS](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Step%201%20to%205/Step%202.md)
- -  [✔️] 🤝 3 > [Set up Mattermost]
- - [✔️] 💻 4 > [Set up PostgreSQL + NGINX]
- - [✔️] ⚙ 5 > [Set up Let's Encrypt]
-
-
+ -  [✔️] 🤝 3 > [Set up PostegreSQL + NGINX + Mattermost + TLS](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Step%201%20to%205/Step%203.md)
 
 
 
