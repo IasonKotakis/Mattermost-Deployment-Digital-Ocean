@@ -183,6 +183,4 @@ Be sure to set a password and note it down.</p>
 <p>Ready for Step 3?</p>
 
 
-```python
 
-```
