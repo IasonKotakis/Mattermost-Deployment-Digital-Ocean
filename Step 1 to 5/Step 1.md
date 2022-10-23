@@ -44,5 +44,4 @@ select your VM from the list.</li>
 <img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/clapping-hands-emoji-clipart-md.png" alt="clapping hands" width="200px" height="200px">
 
 <hr>
- Wonderful!!! You have completed Step 1, how about we delve deeper and set OTRS on 
- [Step 2](/Step%201%20to%205/Step%201.md)?
+ Wonderful!!! You have completed Step 1, how about we delve deeper and set OTRS on Step 2?
