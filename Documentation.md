@@ -2,7 +2,7 @@
 
 <hr>
 
-<h2>Reference</h2>
+<h2>References</h2>
 
 <hr>
 
