@@ -24,7 +24,7 @@ Lastly, since October is Cyber Security awareness month, we will make sure to en
 
 ## Documentation
 
-You can find all the necessary documentation for each tool, listed below: 
+You can fin all the necessary documentation for each tool, listed below: 
 
 - 📃 [Documentation](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Documentation.md)
 <br>
