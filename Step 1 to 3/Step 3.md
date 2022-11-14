@@ -1,4 +1,4 @@
-# Step 3 - Set up
+# Step 3 - Set up Mattermost
 
 <h2>Description</h2>
 
