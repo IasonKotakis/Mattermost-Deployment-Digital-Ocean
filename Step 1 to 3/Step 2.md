@@ -2,7 +2,7 @@
 
 <h2> Important Notes </h2>
 
-<h3 style="background-color:red;"><strong>DO NOT PROCE, UNTIL YOU HAVE READ ALL THE DOCUMENTATION</strong></h3>
+<h3 style="background-color:red;"><strong>DO NOT PROCEED, UNTIL YOU HAVE READ ALL THE DOCUMENTATION</strong></h3>
 <br>
 <p> Before beginning the installation, you must be aware of a number of caveats in the manual. The numbered phases in the OTRS documentation correlate to these notes.Without knowing what each command's function is before you run them, you'll run into issues and have to restart.</p>
 <br>
