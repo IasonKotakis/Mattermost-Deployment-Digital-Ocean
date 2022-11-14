@@ -1,6 +1,6 @@
 # Step 2 - Setting up OTRS
 
-<h2> Important  </h2>
+<h2> Important Notes  </h2>
 
 <h3 style="background-color:red;"><strong>DO NOT PROCEED, UNTIL YOU HAVE READ ALL THE DOCUMENTATION</strong></h3>
 <br>
