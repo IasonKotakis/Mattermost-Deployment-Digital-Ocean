@@ -33,7 +33,7 @@ You can find all the necessary documentation for each tool, listed below:
 
 Shield: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/License%20image.svg"></a>
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work is licensed under  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/CC%20license%20icon.png"></a>
 
