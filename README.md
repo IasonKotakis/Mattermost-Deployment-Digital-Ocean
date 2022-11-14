@@ -2,7 +2,7 @@
 ![Logo](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/DO%2BMM.png)
 
 
-# Mattermost Digital Ocean
+# Mattermost with Digital Ocean
 
 In this project, we will demonstrate on how we can set up a server with [Digital Ocean](https://www.digitalocean.com/). 
 We will then setup several tools such as [OTRS](https://otrs.com/), [Mattermost](https://mattermost.com/), [NGINX](https://nginx.org/), [PostgreSQL](https://www.postgresql.org/), and [Linux](https://ubuntu.com/).
