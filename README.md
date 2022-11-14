@@ -29,7 +29,7 @@ You can find all the necessary documentation for each tool, listed below:
 - 📃 [Documentation](https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/documentation/Documentation.md)
 <br>
 
-## Licen
+## License
 
 Shield: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://github.com/IasonKotakis/Mattermost-Deployment-Digital-Ocean/blob/images/images/License%20image.svg"></a>
 
