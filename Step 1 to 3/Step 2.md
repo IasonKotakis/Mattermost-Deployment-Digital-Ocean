@@ -6,7 +6,7 @@
 <br>
 <p> Before beginning the installation, you must be aware of a number of caveats in the manual. The numbered phases in the OTRS documentation correlate to these notes.Without knowing what each command's function is before you run them, you'll run into issues and have to restart.</p>
 <br>
-<p> Anytime you see a line beginning "shell >," you  enter the command in your terminal that follows the > symbol. For instance, your PuTTY/SSH prompt will resemble this: </p>
+<p> Anytime you see a line beginning "shell >," you must enter the command in your terminal that follows the > symbol. For instance, your PuTTY/SSH prompt will resemble this: </p>
 
 <code>root@user: #tar xzf otrs-x.x.x.tar.gz </code>
 
