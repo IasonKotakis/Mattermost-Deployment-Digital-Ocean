@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2>Whats is , you might ask</h2>
+<h2>Whats is Mattermost, you might ask</h2>
 
 <p>A self-hosted, open-source online chat program featuring file sharing, search, and integrations is called Mattermost. It is marketed as an open-source alternative to Slack and Microsoft Teams and is intended as an internal chat for businesses and organizations. 
 The code was once exclusive since SpinPunch, a game development firm, utilized Mattermost as an internal chat tool before it was open-sourced. Release day for version 1.0 was October 2, 2015.
